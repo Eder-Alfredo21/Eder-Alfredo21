@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-apague%C3%B1o-3a1376189/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51956449198)
 
-Desarrollador web con 3 años de experiencia en PHP y Laravel. Me apasiona la mejora continua y busco siempre optimizar mis habilidades. Disfruto crear soluciones eficientes y escalables. Siempre abierto a nuevos proyectos y colaboraciones.
+Desarrollador web especializado en PHP y Laravel, enfocado en crear soluciones eficientes, escalables y de alta calidad. Apasionado por la innovación y la mejor
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
